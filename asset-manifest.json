@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-crop/static/css/main.b0f5ee1f.css",
+    "main.js": "/image-crop/static/js/main.e6d8c93d.js",
+    "index.html": "/image-crop/index.html",
+    "main.b0f5ee1f.css.map": "/image-crop/static/css/main.b0f5ee1f.css.map",
+    "main.e6d8c93d.js.map": "/image-crop/static/js/main.e6d8c93d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f5ee1f.css",
+    "static/js/main.e6d8c93d.js"
+  ]
+}
